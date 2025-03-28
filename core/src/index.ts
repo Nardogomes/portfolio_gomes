@@ -1,3 +1,3 @@
-const e = "Só alegria!";
-
-export { e };
+export * from "./projeto";
+export * from "./tecnologia";
+export * from "./shared";
