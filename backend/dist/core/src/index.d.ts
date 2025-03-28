@@ -1,2 +1,3 @@
-declare const e = "S\u00F3 alegria!";
-export { e };
+export * from "./projeto";
+export * from "./tecnologia";
+export * from "./shared";
